@@ -29,7 +29,7 @@ public class Dev {
 
                 // Call the signup method
                 memberService.signup("user1", "01012345678", "user1", "1234", 0,"admin@test.com"
-                       , "남자","고성", "양식", "대전", "tong",multipartFile);
+                       , "남자","인천", "양식", "대전", "tong",multipartFile);
 
             } catch (IOException e) {
                 e.printStackTrace();
